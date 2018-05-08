@@ -1,1 +1,2 @@
 # java-string-array
+Fragen Sie einen Nutzer, wieviele Namen er im Array speichern möchte. Erstellen Sie anschließend das passende Array. Lassen sie den Nutzer danach in einer Schleife die Namen in das Array eintragen
